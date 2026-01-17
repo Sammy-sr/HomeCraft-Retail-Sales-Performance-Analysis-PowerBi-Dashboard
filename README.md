@@ -1,1 +1,1 @@
-# Sales Performance Analysis PowerBi Dashboard
+# FurniturePro & Co. Retailers Sales Performance Analysis PowerBi Dashboard
